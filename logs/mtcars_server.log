@@ -1,20 +1,7 @@
-2023-08-08 23:45:57,654.mtcars_server.INFO =============================================================
-2023-08-08 23:45:57,654.mtcars_server.INFO Today is 2023-08-08 at 11:45 PM
-2023-08-08 23:45:57,654.mtcars_server.INFO This file is running on: nt Windows 10
-2023-08-08 23:45:57,654.mtcars_server.INFO The Python version is: 3.9.13
-2023-08-08 23:45:57,654.mtcars_server.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\.venv
-2023-08-08 23:45:57,654.mtcars_server.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6
-2023-08-08 23:45:57,654.mtcars_server.INFO =============================================================
-2023-08-08 23:46:04,985.mtcars_server.DEBUG filter message: Showing 32 of 32 records
-2023-08-08 23:46:05,293.mtcars_server.INFO Starting mtcars_output_widget1
-2023-08-08 23:46:06,557.mtcars_server.INFO Starting mtcars_plot1
-2023-08-08 23:46:11,429.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\data\mtcars_location.csv
-2023-08-08 23:46:11,446.mtcars_server.INFO READING df len 10
-2023-08-08 23:46:11,446.mtcars_server.INFO init reactive_temp_df len: 10
-2023-08-08 23:46:11,446.mtcars_server.INFO mtcars_temperature_location_string starting
-2023-08-08 23:46:11,446.mtcars_server.INFO Recent Temperature in F for ELY MN.
-Updated once per minute for 15 minutes.
-Keeps the most recent 10 minutes of data.
-2023-08-08 23:46:11,454.mtcars_server.INFO Rendering TEMP table with 1 rows
-2023-08-08 23:46:11,461.mtcars_server.INFO Rendering TEMP chart with 1 points
-2023-08-08 23:46:11,549.mtcars_server.INFO Reading df from C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\data\mtcars_stock.csv 
+2023-08-09 16:39:30,939.mtcars_server.INFO =============================================================
+2023-08-09 16:39:30,939.mtcars_server.INFO Today is 2023-08-09 at 04:39 PM
+2023-08-09 16:39:30,939.mtcars_server.INFO This file is running on: nt Windows 10
+2023-08-09 16:39:30,939.mtcars_server.INFO The Python version is: 3.9.13
+2023-08-09 16:39:30,939.mtcars_server.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\.venv
+2023-08-09 16:39:30,941.mtcars_server.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6
+2023-08-09 16:39:30,941.mtcars_server.INFO =============================================================
