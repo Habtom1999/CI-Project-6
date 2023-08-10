@@ -1,33 +1,7 @@
-2023-08-09 23:04:17,025.mtcars_server.INFO =============================================================
-2023-08-09 23:04:17,025.mtcars_server.INFO Today is 2023-08-09 at 11:04 PM
-2023-08-09 23:04:17,026.mtcars_server.INFO This file is running on: nt Windows 10
-2023-08-09 23:04:17,026.mtcars_server.INFO The Python version is: 3.9.13
-2023-08-09 23:04:17,026.mtcars_server.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\.venv
-2023-08-09 23:04:17,026.mtcars_server.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6
-2023-08-09 23:04:17,026.mtcars_server.INFO =============================================================
-2023-08-09 23:04:22,165.mtcars_server.DEBUG filter message: Showing 32 of 32 records
-2023-08-09 23:04:22,246.mtcars_server.INFO Starting mtcars_output_widget1
-2023-08-09 23:04:22,932.mtcars_server.INFO Starting mtcars_plot1
-2023-08-09 23:04:24,334.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\data\mtcars_location.csv
-2023-08-09 23:04:24,337.mtcars_server.INFO READING df len 10
-2023-08-09 23:04:24,337.mtcars_server.INFO init reactive_temp_df len: 10
-2023-08-09 23:04:24,339.mtcars_server.INFO mtcars_temperature_location_string starting
-2023-08-09 23:04:24,339.mtcars_server.INFO Recent Temperature in F for ELY MN.
-Updated once per minute for 15 minutes.
-Keeps the most recent 10 minutes of data.
-2023-08-09 23:04:24,343.mtcars_server.INFO Rendering TEMP table with 1 rows
-2023-08-09 23:04:24,347.mtcars_server.INFO Rendering TEMP chart with 1 points
-2023-08-09 23:04:24,406.mtcars_server.INFO Reading df from C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\data\mtcars_stock.csv 
-2023-08-09 23:04:38,697.mtcars_server.DEBUG filter message: Showing 32 of 32 records
-2023-08-09 23:04:38,704.mtcars_server.INFO Starting mtcars_output_widget1
-2023-08-09 23:04:38,743.mtcars_server.INFO Starting mtcars_plot1
-2023-08-09 23:04:39,161.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\data\mtcars_location.csv
-2023-08-09 23:04:39,169.mtcars_server.INFO READING df len 6
-2023-08-09 23:04:39,173.mtcars_server.INFO init reactive_temp_df len: 6
-2023-08-09 23:04:39,175.mtcars_server.INFO mtcars_temperature_location_string starting
-2023-08-09 23:04:39,175.mtcars_server.INFO Recent Temperature in F for ELY MN.
-Updated once per minute for 15 minutes.
-Keeps the most recent 10 minutes of data.
-2023-08-09 23:04:39,176.mtcars_server.INFO Rendering TEMP table with 1 rows
-2023-08-09 23:04:39,181.mtcars_server.INFO Rendering TEMP chart with 1 points
-2023-08-09 23:04:39,210.mtcars_server.INFO Reading df from C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\data\mtcars_stock.csv 
+2023-08-10 18:52:05,213.mtcars_server.INFO =============================================================
+2023-08-10 18:52:05,214.mtcars_server.INFO Today is 2023-08-10 at 06:52 PM
+2023-08-10 18:52:05,214.mtcars_server.INFO This file is running on: nt Windows 10
+2023-08-10 18:52:05,214.mtcars_server.INFO The Python version is: 3.9.13
+2023-08-10 18:52:05,214.mtcars_server.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6\.venv
+2023-08-10 18:52:05,214.mtcars_server.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\CI\CI-Project-6
+2023-08-10 18:52:05,215.mtcars_server.INFO =============================================================

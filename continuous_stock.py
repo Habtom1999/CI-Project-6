@@ -31,7 +31,7 @@ def lookup_ticker(company):
      "Ford":{"tick":"F"},
      "Nissan Motor Co Ltd":{"tick":"NSANY"},
      "Kia Motors Corporation":{"tick":"KIMTF"},
-     "Mazda Motor Corp":{"tick":"MZDAY"},
+     
   }
   answer_dict = ticker_dictionary[company]
   ticker = answer_dict["tick"]
@@ -60,8 +60,7 @@ async def update_csv_stock():
     logger.info("Calling update_csv_stock")
     try:
         companys = ["Tesla Inc", "General Motors Company", "Ford","Honda Motor Co","Toyota Motor Corporation",
-                    "Hyundai Motor Company","Volvo Group","Nissan Motor Co Ltd","Kia Motors Corporation","Mazda Motor Corp",
-                    ]
+                    "Hyundai Motor Company","Volvo Group","Nissan Motor Co Ltd","Kia Motors Corporation"]
         update_interval = 60  # Update every 1 minute (60 seconds)
         total_runtime = 15 * 60  # Total runtime maximum of 15 minutes
         num_updates = 10  # Keep the most recent 10 readings
