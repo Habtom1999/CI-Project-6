@@ -60,7 +60,8 @@ async def update_csv_stock():
     logger.info("Calling update_csv_stock")
     try:
         companys = ["Tesla Inc", "General Motors Company", "Ford","Honda Motor Co","Toyota Motor Corporation",
-                    "Hyundai Motor Company","Volvo Group","Nissan Motor Co Ltd","Kia Motors Corporation","Mazda Motor Corp"]
+                    "Hyundai Motor Company","Volvo Group","Nissan Motor Co Ltd","Kia Motors Corporation","Mazda Motor Corp",
+                    ]
         update_interval = 60  # Update every 1 minute (60 seconds)
         total_runtime = 15 * 60  # Total runtime maximum of 15 minutes
         num_updates = 10  # Keep the most recent 10 readings
